@@ -1,4 +1,4 @@
-name: 同步mdexSwap.github.io
+name: 同步token-icons
 on:
   schedule:
     - cron: "*/10 * * * *"
